@@ -1,0 +1,7 @@
+Hi, this file will be held for ransom by the program.
+
+You can put in here whatever you want, and maybe I'll make it so that the program takes out specific data to "scare you".
+
+For example, 
+
+I am a very quiet sleeper.
